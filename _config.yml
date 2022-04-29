@@ -62,7 +62,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    url: "bakalarka"
+    url: "/bakalarka"
     base_url: "https://alex1972000.github.io/bakalarka/"
 
 # Exclude list
