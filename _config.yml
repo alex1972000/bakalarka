@@ -63,7 +63,7 @@ paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     url: "bakalarka"
-    base_url: ""
+    base_url: "https://alex1972000.github.io/bakalarka/"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
