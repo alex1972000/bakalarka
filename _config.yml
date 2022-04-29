@@ -62,8 +62,8 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    url: ""
-    base_url: "/bakalarka"
+    url: "bakalarka"
+    base_url: ""
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
