@@ -1,24 +1,7 @@
----
-layout: null
-title: Jekyll Theme - Home Page - Massively
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
----
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 	<head>
     {% include head.html %}
-
-
 	</head>
 	<body class="is-loading">
 
@@ -56,12 +39,9 @@ sitemap:
 									<p>tu sa rozpišem</p>
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                			<p>pokus1</p>
-                			<p>pokus2</p>
-								<p>
-									pokus3
-								 </p>
-
+									<p>pokus1</p>
+									<p>pokus2</p>
+									<p>pokus3</p>
 							</article>
 
 						<!-- Posts -->
@@ -79,15 +59,15 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Zistiť viac</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
+                  					{% if mod3 == 0 %}
+                  				<article>
   									<header>
   										<h2><a href="#">Sponsored</a></h2>
   									</header>
 
   								</article>
-                  {% endif %}
-                {% endfor %}
+                  			{% endif %}
+        					{% endfor %}
 
 							</section>
 
