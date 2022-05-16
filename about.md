@@ -7,21 +7,17 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## Motivácia k bakalárskej práci
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Vedúci práce: Mgr. Richard Staňa 
+Konzultant práce: RNDr. JUDr. Pavol Sokol, PhD.
+Študent: Alex Gajdoš
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+Témou mojej bakalárskej práce je “Predikcia časových radov pomocou metód strojového učenia v oblasti počítačovej bezpečnosti.” Najťažšou úlohou bolo nájsť vhodnú tému, ktorá by ma bavila, a ktorú by som chcel napísať naozaj kvalitne. Taká téma bola predstavená na burze záverečných prác a hneď ma zaujala.
+Sme generácia, ktorá už do detstva ide ruka v ruke s vývojom a posunom smart zariadení a slovo počítač je nám každému známe, tak aj ja som už od detstva inklinoval k počítačom a celkovo k elektronike. Spočiatku to boli len hry, ktoré vypĺňali nudne chvíle no časom prišla škola, ktorá mi ukázala iné možnosti využitia technológií a naučila ma základné veci na počítači. Počas vzdelávania som si osvojil aj základy kyberbezpečnosti, ktoré ma zaujali. To je hlavným dôvodom prečo som si vybral prácu u Riša.
+Hlavnou motiváciou na výber tejto konkrétnej témy je to, že som v tomto roku absolvoval predmet “Úvod do neurónových sietí” ktorý vyučoval RNDr. Ľubomír Antoni, PhD., kde som získal základné informácie o neurónových sieťach a tieto informácie by som si chcel rozšíriť aj pomocou tejto bakalárskej prace.
+Ďalším dôvodom bol priateľsky prístup vedúceho tejto bakalárskej práce, s ktorým som už mal tú česť a možnosť spolupracovať na viacerých projektoch v rámci Univerzity. Práca s Rišom bola vždy veľkým prínosom pre môj odborný rast a verím, že aj vďaka nemu sa mi podarí napísať a obhájiť najlepšiu bakalársku prácu.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
