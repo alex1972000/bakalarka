@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "Prezentacia"
-date:   2017-10-31
+title:  "Prezentácia"
+date:   2022-05-16
 excerpt: ""
 image: ""
 ---
@@ -12,48 +12,25 @@ image: ""
 
 Vedúci práce: Mgr. Richard Staňa
 
-Konzultant:
+Konzultant:RNDr. JUDr. Pavol Sokol, PhD. 
 
-Študent:
-
-RNDr. JUDr. Pavol Sokol, PhD.
-
-Alex Gajdoš
-
-
-
+Študent: Alex Gajdoš
 
 
 **MOTIVÁCIA**
 
-\1. Zlepšenie predikcie v oblasti časových radov pomocou metód strojového učenia.
+1. Zlepšenie predikcie v oblasti časových radov pomocou metód strojového učenia.
 
-\2. Porovnať výsledky štatistických metód s metódami strojového učenia na predikciu časových radov.
-
-
-
+2. Porovnať výsledky štatistických metód s metódami strojového učenia na predikciu časových radov.
 
 
 **CIELE**
 
-Analyzovať existujúce prístupy predikcie časových
+1. Analyzovať existujúce prístupy predikcie časových radov v oblasti počítačovej bezpečnosti.
 
-\1.
+2. Implementovať modely strojového učenia na predikciu časových radov.
 
-radov v oblasti počítačovej bezpečnosti.
-
-Implementovať modely strojového učenia na
-
-predikciu časových radov.
-
-\2.
-
-\3.
-
-Porovnať dosiahnuté výsledky s existujúcimi výsledkami.
-
-
-
+3. Porovnať dosiahnuté výsledky s existujúcimi výsledkami.
 
 
 **NAJBLIŽŠIE KROKY**
@@ -65,34 +42,27 @@ Porovnať dosiahnuté výsledky s existujúcimi výsledkami.
 • Aplikácia naštudovanej metódy na predikciu časových radov.
 
 
-
-
-
 **ODPORÚČANÁ LITERATÚRA**
 
-\1. Staňa, R., Pekarčík, P., Gajdoš, A., & Sokol, P. Network security situation awareness
+1. Staňa, R., Pekarčík, P., Gajdoš, A., & Sokol, P. Network security situation awareness
 
 forecasting based on neural networks. ITISE 2020 prija
 
-\2. Sokol, P., Staňa, R., Gajdoš, A., & Pekarčík, P. (2022). Network security situation
+2. Sokol, P., Staňa, R., Gajdoš, A., & Pekarčík, P. (2022). Network security situation
 
 awareness forecasting based on statistical approach and neural networks. Logic Journal of
 
 the IGPL.
 
-\3. P. Kacha, M. Kostenec, and A. Kropacova, „Warden 3: Security event exchange redesign,“
+3. P. Kacha, M. Kostenec, and A. Kropacova, „Warden 3: Security event exchange redesign,“
 
 in 19th International Conference on Computers: Recent Advances in Computer Science,
 
 \2015.
 
-\4. HYNDMAN, Rob J.; ATHANASOPOULOS, George. Forecasting: principles and
+4. HYNDMAN, Rob J.; ATHANASOPOULOS, George. Forecasting: principles and
 
 practice. OTexts, 2021.
 
 
-
-
-
-ĎAKUJEM ZA POZORNOSŤ
 
