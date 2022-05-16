@@ -1,4 +1,10 @@
-﻿
+﻿---
+layout: post
+title:  "Prezentacia"
+date:   2017-10-31
+excerpt: ""
+image: ""
+---
 
 **PREDIKCIA ČASOVÝCH RADOV POMOCOU METÓD STROJOVÉHO UČENIA V**
 
