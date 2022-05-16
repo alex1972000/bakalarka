@@ -3,7 +3,7 @@ layout: post
 title:  "Prezentácia"
 date:   2022-05-16
 excerpt: ""
-image: ""
+image: "/images/presentation.png"
 ---
 
 **PREDIKCIA ČASOVÝCH RADOV POMOCOU METÓD STROJOVÉHO UČENIA V**
