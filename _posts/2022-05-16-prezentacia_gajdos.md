@@ -56,9 +56,7 @@ the IGPL.
 
 3. P. Kacha, M. Kostenec, and A. Kropacova, „Warden 3: Security event exchange redesign,“
 
-in 19th International Conference on Computers: Recent Advances in Computer Science,
-
-\2015.
+in 19th International Conference on Computers: Recent Advances in Computer Science, 2015.
 
 4. HYNDMAN, Rob J.; ATHANASOPOULOS, George. Forecasting: principles and
 
