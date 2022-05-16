@@ -4,11 +4,12 @@ title: Bakalárska práca - About - Massively
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2022-05-16
     changefreq: weekly
 ---
 ## Motivácia k bakalárskej práci
 
+**Predikcia časových radov pomocou metód strojového učenia v oblasti počítačovej bezpečnosti**
 
 Vedúci práce: Mgr. Richard Staňa
 
