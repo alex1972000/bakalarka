@@ -35,11 +35,11 @@ Konzultant:RNDr. JUDr. Pavol Sokol, PhD.
 
 **NAJBLIŽŠIE KROKY**
 
-• Naštudovanie odporúčanej literatúry.
+- Naštudovanie odporúčanej literatúry.
 
-• Nájsť vhodné metódy strojového učenia na predikciu časových radov.
+- Nájsť vhodné metódy strojového učenia na predikciu časových radov.
 
-• Aplikácia naštudovanej metódy na predikciu časových radov.
+- Aplikácia naštudovanej metódy na predikciu časových radov.
 
 
 **ODPORÚČANÁ LITERATÚRA**
